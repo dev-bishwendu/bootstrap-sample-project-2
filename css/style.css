@@ -1,0 +1,30 @@
+.hero-section{
+    background-image: url('../asset/hero\ background.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+}
+.mar-top{
+    margin-top: 300px;
+}
+.my-5{
+    margin-top: 100px !important;
+}
+/* .bg-img{
+    background-image: url('../asset/mindset\ background\ z0.png');
+    min-height: 50vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.z-3{
+    padding-left: 50px !important;
+}
+input::placeholder{
+    color: #fff !important;
+}
